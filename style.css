@@ -1,13 +1,13 @@
 *{
             
-    font-family: 'Inter', sans-serif;
+    font-family: 'Inter';
    
 }
 body{
     border: 2px solid;
     margin: 0px;
     padding: 0px;
-    font-family: Inter;
+    /* font-family: 'Inter'; */
     
 }
 /* Upper Part  */
